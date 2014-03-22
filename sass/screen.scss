@@ -1,0 +1,98 @@
+@import "compass";
+@import "compass/css3";
+@import "compass/css3/border-radius";
+
+body{
+	width:960px;
+	height: auto;
+	@include background-image(linear-gradient(DodgerBlue, white));
+	background-repeat: no-repeat;
+	margin: 10px 50px;
+}
+
+.section01{
+	border: #000 solid 2px;
+	@include border-radius(25px);
+	background-color: rgba(119,136,153,0.7); //creates the transparent background
+	@include box-shadow(#000 2px 2px 10px);
+}
+
+h1{
+	color: #ddd;
+	&:hover{
+		color: #fff;
+		text-decoration: underline;
+	}
+}
+
+#topP{
+	@include inline-block;
+	margin: 40px;
+	font:
+		{
+			family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+			size: 14px;
+		}
+	a{
+		color: purple;
+		font-weight: bold;
+		text-decoration: none;
+		&:hover{
+			text-decoration: underline;
+		}
+	}	
+	
+}
+
+h2{
+	color: #ADFF2F;
+	text-shadow:
+   		-1px -1px 0 #000,  
+    	1px -1px 0 #000,
+    	-1px 1px 0 #000,
+     	1px 1px 0 #000;
+}
+
+ol{
+	color: #BA55D3;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow:
+   		-1px -1px 0 #000,  
+    	1px -1px 0 #000,
+    	-1px 1px 0 #000,
+     	1px 1px 0 #000;
+    letter-spacing: 1px; 	
+}
+
+blockquote{
+	font: 14px/22px normal helvetica, sans-serif;
+  	margin-top: 10px;
+  	margin-bottom: 10px;
+  	margin-left: 50px;
+  	padding-left: 15px;
+  	border-left: 3px solid #000;
+}
+
+strong{
+	color: yellow;
+}
+
+h3{
+	color: #4169E1;
+	&:hover{
+		color: #000;
+		text-shadow: 3px 3px 5px #000;
+		}
+}
+
+ul{
+	color: #DC143C;
+	font:{
+		family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+		weight: bold;
+		style: italic;
+		size: 20px;
+	}
+	text-shadow: 3px 3px 5px #000;
+}

@@ -1,0 +1,188 @@
+2014-03-21 15:36:10 overwrite stylesheets/screen.css 
+2014-03-21 15:36:18 identical stylesheets/screen.css 
+2014-03-21 15:37:00     error sass/screen.scss (Line 10: At least two color stops are required for a linear-gradient)
+2014-03-21 15:37:00 overwrite stylesheets/screen.css 
+2014-03-21 15:37:14     error sass/screen.scss (Line 6: File to import not found or unreadable: compass/css3/gradients.
+Load paths:
+  C:/wamp/www/myproject/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/vendor/assets/stylesheets)
+2014-03-21 15:37:14 overwrite stylesheets/screen.css 
+2014-03-21 15:38:04     error sass/screen.scss (Line 7: File to import not found or unreadable: compass/css3/gradients.
+Load paths:
+  C:/wamp/www/myproject/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/vendor/assets/stylesheets)
+2014-03-21 15:38:04 overwrite stylesheets/screen.css 
+2014-03-21 15:38:33     error sass/screen.scss (Line 7: File to import not found or unreadable: compass/css3/gradients.
+Load paths:
+  C:/wamp/www/myproject/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/vendor/assets/stylesheets)
+2014-03-21 15:38:33 identical stylesheets/screen.css 
+2014-03-21 15:38:50     error sass/screen.scss (Line 7: File to import not found or unreadable: compass/css3/gradients.
+Load paths:
+  C:/wamp/www/myproject/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/vendor/assets/stylesheets)
+2014-03-21 15:38:50 identical stylesheets/screen.css 
+2014-03-21 15:39:05     error sass/screen.scss (Line 7: File to import not found or unreadable: compass/css3/gradients.
+Load paths:
+  C:/wamp/www/myproject/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Dani/Documents/compass.app.windows.v1.27/vendor/assets/stylesheets)
+2014-03-21 15:39:05 identical stylesheets/screen.css 
+2014-03-21 15:40:07     error sass/screen.scss (Line 9: Invalid CSS after "	linear-gradient": expected "{", was "(#0000FF, #fff));")
+2014-03-21 15:40:07 overwrite stylesheets/screen.css 
+2014-03-21 15:40:15     error sass/screen.scss (Line 9: Invalid CSS after "	linear-gradient": expected "{", was "(#0000FF, #fff);")
+2014-03-21 15:40:15 overwrite stylesheets/screen.css 
+2014-03-21 15:44:42     error sass/screen.scss (Line 9: Undefined mixin 'background-image'.)
+2014-03-21 15:44:42 overwrite stylesheets/screen.css 
+2014-03-21 15:50:23 overwrite stylesheets/screen.css 
+2014-03-21 15:50:31 identical stylesheets/screen.css 
+2014-03-21 15:53:59 overwrite stylesheets/screen.css 
+2014-03-21 15:55:51     error sass/screen.scss (Line 10: Undefined mixin 'background-image'.)
+2014-03-21 15:55:51 overwrite stylesheets/screen.css 
+2014-03-21 15:56:12     error sass/screen.scss (Line 10: Invalid CSS after "body": expected selector or at-rule, was "{")
+2014-03-21 15:56:12 overwrite stylesheets/screen.css 
+2014-03-21 15:56:22 overwrite stylesheets/screen.css 
+2014-03-21 15:57:27 overwrite stylesheets/screen.css 
+2014-03-21 15:59:36 overwrite stylesheets/screen.css 
+2014-03-21 16:00:04 overwrite stylesheets/screen.css 
+2014-03-21 16:00:23 overwrite stylesheets/screen.css 
+2014-03-21 16:00:45 overwrite stylesheets/screen.css 
+2014-03-21 16:01:22 overwrite stylesheets/screen.css 
+2014-03-21 16:01:26 identical stylesheets/screen.css 
+2014-03-21 16:02:17 overwrite stylesheets/screen.css 
+2014-03-21 16:02:37 overwrite stylesheets/screen.css 
+2014-03-21 16:03:31 overwrite stylesheets/screen.css 
+2014-03-21 16:04:01 overwrite stylesheets/screen.css 
+2014-03-21 16:04:08 overwrite stylesheets/screen.css 
+2014-03-21 16:05:00 overwrite stylesheets/screen.css 
+2014-03-21 16:05:48 overwrite stylesheets/screen.css 
+2014-03-21 16:06:01 overwrite stylesheets/screen.css 
+2014-03-21 16:06:26 overwrite stylesheets/screen.css 
+2014-03-21 16:06:44 overwrite stylesheets/screen.css 
+2014-03-21 16:07:46 overwrite stylesheets/screen.css 
+2014-03-21 16:08:08 overwrite stylesheets/screen.css 
+2014-03-21 16:13:55 overwrite stylesheets/screen.css 
+2014-03-21 16:14:29 overwrite stylesheets/screen.css 
+2014-03-21 16:14:37 identical stylesheets/screen.css 
+2014-03-21 16:15:01 overwrite stylesheets/screen.css 
+2014-03-21 16:15:08 identical stylesheets/screen.css 
+2014-03-21 16:16:07 overwrite stylesheets/screen.css 
+2014-03-21 16:17:47 overwrite stylesheets/screen.css 
+2014-03-21 16:19:34 overwrite stylesheets/screen.css 
+2014-03-21 16:20:12 overwrite stylesheets/screen.css 
+2014-03-21 16:20:47 overwrite stylesheets/screen.css 
+2014-03-21 16:20:55 overwrite stylesheets/screen.css 
+2014-03-21 16:23:22 overwrite stylesheets/screen.css 
+2014-03-21 16:23:58 overwrite stylesheets/screen.css 
+2014-03-21 16:24:29 overwrite stylesheets/screen.css 
+2014-03-21 19:16:40 overwrite stylesheets/screen.css 
+2014-03-21 19:16:55 overwrite stylesheets/screen.css 
+2014-03-21 19:19:02 overwrite stylesheets/screen.css 
+2014-03-21 19:19:12 overwrite stylesheets/screen.css 
+2014-03-21 19:20:48 overwrite stylesheets/screen.css 
+2014-03-21 19:21:16 overwrite stylesheets/screen.css 
+2014-03-21 19:21:37 overwrite stylesheets/screen.css 
+2014-03-21 19:22:41 overwrite stylesheets/screen.css 
+2014-03-21 19:24:10 overwrite stylesheets/screen.css 
+2014-03-21 19:24:51 overwrite stylesheets/screen.css 
+2014-03-21 19:25:13 overwrite stylesheets/screen.css 
+2014-03-21 19:25:35 overwrite stylesheets/screen.css 
+2014-03-21 19:25:48 overwrite stylesheets/screen.css 
+2014-03-21 19:26:25 overwrite stylesheets/screen.css 
+2014-03-21 19:26:30 identical stylesheets/screen.css 
+2014-03-21 19:27:08 overwrite stylesheets/screen.css 
+2014-03-21 19:27:35 overwrite stylesheets/screen.css 
+2014-03-21 19:28:23 overwrite stylesheets/screen.css 
+2014-03-21 19:29:26 overwrite stylesheets/screen.css 
+2014-03-21 19:29:54 overwrite stylesheets/screen.css 
+2014-03-21 19:30:21 overwrite stylesheets/screen.css 
+2014-03-21 19:30:49 overwrite stylesheets/screen.css 
+2014-03-21 19:31:39 overwrite stylesheets/screen.css 
+2014-03-21 19:31:51 overwrite stylesheets/screen.css 
+2014-03-21 19:32:02 overwrite stylesheets/screen.css 
+2014-03-21 19:32:23 overwrite stylesheets/screen.css 
+2014-03-21 19:34:35 overwrite stylesheets/screen.css 
+2014-03-21 19:34:47 overwrite stylesheets/screen.css 
+2014-03-21 19:35:11 identical stylesheets/screen.css 
+2014-03-21 19:36:56 overwrite stylesheets/screen.css 
+2014-03-21 19:38:22 overwrite stylesheets/screen.css 
+2014-03-21 19:40:47 overwrite stylesheets/screen.css 
+2014-03-21 19:41:08 overwrite stylesheets/screen.css 
+2014-03-21 19:41:50 overwrite stylesheets/screen.css 
+2014-03-21 19:42:11 identical stylesheets/screen.css 
+2014-03-21 19:42:31 identical stylesheets/screen.css 
+2014-03-21 19:44:39 overwrite stylesheets/screen.css 
+2014-03-21 19:44:57 overwrite stylesheets/screen.css 
+2014-03-21 19:45:11 overwrite stylesheets/screen.css 
+2014-03-21 19:45:47 overwrite stylesheets/screen.css 
+2014-03-21 19:45:56 overwrite stylesheets/screen.css 
+2014-03-21 19:46:06 overwrite stylesheets/screen.css 
+2014-03-21 19:46:15 overwrite stylesheets/screen.css 
+2014-03-21 19:47:09 overwrite stylesheets/screen.css 
+2014-03-21 19:47:20 overwrite stylesheets/screen.css 
+2014-03-21 19:48:48 overwrite stylesheets/screen.css 
+2014-03-21 19:49:15 overwrite stylesheets/screen.css 
+2014-03-21 19:53:54 overwrite stylesheets/screen.css 
+2014-03-21 19:54:08 overwrite stylesheets/screen.css 
+2014-03-21 19:58:13 overwrite stylesheets/screen.css 
+2014-03-21 19:59:39 overwrite stylesheets/screen.css 
+2014-03-21 20:00:04 overwrite stylesheets/screen.css 
+2014-03-21 20:00:26 overwrite stylesheets/screen.css 
+2014-03-21 20:01:56 overwrite stylesheets/screen.css 
+2014-03-21 20:02:20 overwrite stylesheets/screen.css 
+2014-03-21 20:02:33 overwrite stylesheets/screen.css 
+2014-03-21 20:03:23 overwrite stylesheets/screen.css 
+2014-03-21 20:03:40 overwrite stylesheets/screen.css 
+2014-03-21 20:04:13 overwrite stylesheets/screen.css 
+2014-03-21 20:04:24 overwrite stylesheets/screen.css 
+2014-03-21 20:07:13 overwrite stylesheets/screen.css 
+2014-03-21 20:07:56 overwrite stylesheets/screen.css 
+2014-03-21 20:08:12 overwrite stylesheets/screen.css 
+2014-03-21 20:08:28 overwrite stylesheets/screen.css 
+2014-03-21 20:08:38 overwrite stylesheets/screen.css 
+2014-03-21 20:08:47 overwrite stylesheets/screen.css 
+2014-03-21 20:11:30 overwrite stylesheets/screen.css 
